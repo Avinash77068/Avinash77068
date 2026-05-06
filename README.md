@@ -1,28 +1,75 @@
 <h1 align="center">Hi 👋, I'm Avinash Shrivastav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=Animatred+coding+gif&oq=Animatred+coding+gif&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIICAMQABgWGB4yCggEEC4YChgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDk1ODdqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=dbrfb5dvHO4gVM&vssid=l">
+<h3 align="center">🚀 Frontend Developer | React Specialist | UI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash77068&label=Profile%20views&color=0e75b6&style=flat" alt="avinash77068" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Node.js, ReactJs etc.**
+---
 
-- 💬 Ask me about **ReactJs Django.**
+### 👨‍💻 About Me
+- 💼 Frontend Developer with **1+ year experience**
+- 🌱 Currently exploring **Next.js, Zustand, React Query**
+- 🔥 Strong in **React, JavaScript, UI Optimization**
+- 🧠 Love solving real-world UI/UX problems
+- ♟️ Fun Fact: I’m a **Chess Player**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk](https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk](https://drive.google.com/drive/quota))
+---
 
-- ⚡ Fun fact **Chess Player**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/avinashshrivastav7_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinashshrivastav7_2022" height="30" width="40" /></a>
+#### 💻 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
+
+#### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### 🧰 Others
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash77068&show_icons=true&theme=tokyonight" />
 </p>
-<a href="https://www.internboys.online">internship website</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash77068&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash77068&show_icons=true&locale=en&layout=compact" alt="avinash77068" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash77068&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash77068&show_icons=true&locale=en" alt="avinash77068" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash77068&" alt="avinash77068" /></p>
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/avinashshrivastav7_2022" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+### 📄 Resume
+👉 [View Resume](https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view)
+
+---
+
+### 🚀 Projects (Add Your Best Work Here)
+- 🔹 Project 1 - Short Description
+- 🔹 Project 2 - Short Description
+- 🔹 Project 3 - Short Description
+
+---
+
+### 💡 Quote
+_"Code is like chess — think before you move."_ ♟️
