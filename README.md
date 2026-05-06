@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ReactJs Django.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk](https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk](https://drive.google.com/file/d/1DSqtAqpW4nCrw6i_Nt36Nbg6UabwIjTd/view?usp=drivesdk](https://drive.google.com/drive/quota))
 
 - ⚡ Fun fact **Chess Player**
 
